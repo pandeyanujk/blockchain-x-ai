@@ -52,6 +52,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 ## Blockchains for data
 
 - [Ocean Protocol](https://oceanprotocol.com/) - Ocean Protocol is a decentralized data exchange protocol that lets people share and monetize data while guaranteeing control, auditability, transparency and compliance to all actors involved. Its network handles storing of the metadata (i.e. who owns what), links to the data itself, and more.
+- [Mission Control](https://usemissioncontrol.com/) - Mission Control unifies AI artifact management, Governance audits, and stakeholder education in a secure cloud environment. For teams of exploratory maturity; Mission Control is a turn-key environment for improving education, buy-in, and stronger Responsible AI culture. 
 
 ## Blockchains for computation
 
@@ -59,6 +60,7 @@ This list explores awesome projects that exploit the properties of blockchain te
 - [DeepBrain Chain](https://www.deepbrainchain.org/) - A decentralized AI computing platform that supplies processing power to companies looking to develop A.I. technologies.
 - [Nunet](https://www.nunet.io/) - A globally decentralized computing framework that combines latent computing power of independently owned compute devices across the globe into a dynamic marketplace of compute resources.
 - [Phala Network](https://phala.network/) - A decentralized off-chain compute infrastructure for Web3 development.
+- [Gensyn](https://www.gensyn.ai/) - The Gensyn network is the Machine Learning Compute Protocol that unites all of the world’s compute into a global supercluster, accessible by anyone at any time.
 
 ## Blockchains for AI in finance
 
